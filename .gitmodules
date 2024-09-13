@@ -1,6 +1,6 @@
 [submodule "ollama"]
 	path = ollama
-	url = https://github.com/OpenBMB/ollama.git
+	url = git@github.com:mikegoelzer/ollama.git
 [submodule "MiniCPM-V-2_5/model/MiniCPM-Llama3-V-2_5-gguf"]
 	path = MiniCPM-V-2_5/model/MiniCPM-Llama3-V-2_5-gguf
 	url = https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5-gguf
